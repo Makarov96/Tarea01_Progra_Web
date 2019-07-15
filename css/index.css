@@ -46,6 +46,23 @@ body {
 
 iframe {
     position: relative;
+    text-align: center;
     top: 20px;
     left: 20px;
+    align-items: center;
+    align-content: center;
+}
+
+.container.cuatro {
+    text-align: center;
+    margin-top: 25px;
+    display: none;
+    height: auto;
+}
+
+.container.cinco {
+    text-align: center;
+    margin-top: 25px;
+    display: none;
+    height: auto;
 }
